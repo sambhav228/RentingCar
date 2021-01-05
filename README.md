@@ -12,3 +12,19 @@ Kamal and his friends have a huge collection of cars. So, they got an idea of re
 2. Aadhar number should consist of 12 digits. 
 
 3.The Driving license should contain 15 digits in which first 2 digits should consist of alphabets and must match any of the Indian state codes.
+
+### Features !
+ - Intuitive user interface
+ - Desktop application
+ - File Based Data storage
+ - Easy to modify design
+ - Multiple modules
+    - Basic Authenticati
+
+## How to edit this project ?
+Best way to open and edit the project is to use Eclipse IDE. It allows very easy way to modify the design (Drag and Drop)
+
+## Authentication
+There is no standard authentication has been added yet. Currently, it is hardcoded.
+
+
