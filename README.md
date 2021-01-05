@@ -32,6 +32,7 @@ There is no standard authentication has been added yet. Currently, it is hardcod
 ## Screenshots
 ![Authentication Page](https://github.com/sambhav228/RentingCar/blob/master/page%201.PNG)
 ![Cars Availability](https://github.com/sambhav228/RentingCar/blob/master/page%202.PNG)
+![Cars Availability](https://github.com/sambhav228/RentingCar/blob/master/page%203.PNG)
 ![Charges](https://github.com/sambhav228/RentingCar/blob/master/page%204.PNG)
 
 
